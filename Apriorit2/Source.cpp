@@ -18,11 +18,6 @@ std::vector<std::string> series(const std::string& word, size_t len) {
 }
 
 int main() {
-	std::string word = "Hopheylalaley";
-	std::vector < std::string> res = series(word, 4);
-	for (auto& i : res) {
-		std::cout << i << " ";
-	}
 	
-	//what if I change? And what it leads to?
+std::string b3 = "Test for a new branch!!!";
 }
