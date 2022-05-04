@@ -18,6 +18,7 @@ std::vector<std::string> series(const std::string& word, size_t len) {
 }
 
 int main() {
+	std::string b3 = "Test for a new branch!!!";
 
 	std::string b3 = "Test for a new branch #3   !!!";
 
