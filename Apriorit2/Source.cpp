@@ -26,7 +26,7 @@ int main() {
 
 	int arr[] = {1, 2, 3, 4, 5};
 
-	std::string = "Okay 1 more change!";
+	std::string  Hurraaaay = "Okay 1 more change!";
 
 	//what if?
 }
