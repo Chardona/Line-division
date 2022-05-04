@@ -18,11 +18,6 @@ std::vector<std::string> series(const std::string& word, size_t len) {
 }
 
 int main() {
-	std::string word = "balanytinaaaksad";
-	std::vector < std::string> res = series(word, 4);
-	for (auto& item : res) {
-		std::cout << item << " ";
-	}
 
 	int arr[] = {1, 2, 3, 4, 5};
 
