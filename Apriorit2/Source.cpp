@@ -24,5 +24,5 @@ int main() {
 		std::cout << i << " ";
 	}
 	
-	//what if I change?
+	//what if I change? And what it leads to?
 }
