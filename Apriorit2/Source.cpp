@@ -18,6 +18,9 @@ std::vector<std::string> series(const std::string& word, size_t len) {
 }
 
 int main() {
-	
-std::string b3 = "Test for a new branch!!!";
+	std::string word = "Hopheylalaley";
+	std::vector<std::string> v = series(word,4);
+	for (auto& i:v){
+		std::cout<<i<<" ";
+	}
 }
